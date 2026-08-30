@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-hook-form": "^7.86.0",
+    "react-router-dom": "^7.18.2",
+    "router": "^2.2.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
